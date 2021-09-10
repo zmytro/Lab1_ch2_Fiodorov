@@ -13,7 +13,7 @@ public class n2_33 {
         System.out.print("Enter your weight:");
         kg = input.nextDouble();
         bmi = kg/(h*h);
-        System.out.println("BMI Values");
+        System.out.println("BMI Values Hello");
         System.out.println("Underweight: less than 18.5");
         System.out.println("Normal: between 18.5 and 24.9");
         System.out.println("Overweight: between 25 and 29.9");
